@@ -1,0 +1,296 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|c:\\users\\ayon.ghosh\\projects\\hanahrm\\hanahrm\\.gitignor||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|solutionrelative:hanahrm\\.gitignor||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|c:\\users\\ayon.ghosh\\projects\\hanahrm\\hanahrm\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|solutionrelative:hanahrm\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|c:\\users\\ayon.ghosh\\projects\\hanahrm\\hanahrm\\hanahrm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|solutionrelative:hanahrm\\hanahrm.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|c:\\users\\ayon.ghosh\\projects\\hanahrm\\hanahrm\\controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|solutionrelative:hanahrm\\controllers\\commoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|c:\\users\\ayon.ghosh\\projects\\hanahrm\\hanahrm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|solutionrelative:hanahrm\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|c:\\users\\ayon.ghosh\\projects\\hanahrm\\hanahrm\\dataaccess\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|solutionrelative:hanahrm\\dataaccess\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|c:\\users\\ayon.ghosh\\projects\\hanahrm\\hanahrm\\dataaccess\\models\\hrmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|solutionrelative:hanahrm\\dataaccess\\models\\hrmdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|c:\\users\\ayon.ghosh\\projects\\hanahrm\\hanahrm\\dataaccess\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|solutionrelative:hanahrm\\dataaccess\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|c:\\users\\ayon.ghosh\\projects\\hanahrm\\hanahrm\\dataaccess\\models\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|solutionrelative:hanahrm\\dataaccess\\models\\designation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|c:\\users\\ayon.ghosh\\projects\\hanahrm\\hanahrm\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|solutionrelative:hanahrm\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|c:\\users\\ayon.ghosh\\projects\\hanahrm\\hanahrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|solutionrelative:hanahrm\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|c:\\users\\ayon.ghosh\\projects\\hanahrm\\hanahrm\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|solutionrelative:hanahrm\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|c:\\users\\ayon.ghosh\\projects\\hanahrm\\hanahrm\\dataaccess\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|solutionrelative:hanahrm\\dataaccess\\models\\section.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|c:\\users\\ayon.ghosh\\projects\\hanahrm\\hanahrm\\dataaccess\\models\\religion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|solutionrelative:hanahrm\\dataaccess\\models\\religion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|c:\\users\\ayon.ghosh\\projects\\hanahrm\\hanahrm\\hanahrm.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|solutionrelative:hanahrm\\hanahrm.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|c:\\users\\ayon.ghosh\\projects\\hanahrm\\hanahrm\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|solutionrelative:hanahrm\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|c:\\users\\ayon.ghosh\\projects\\hanahrm\\hanahrm\\hanahrm.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{5ECA1C7A-E939-4899-9E97-A5DBE3878155}|HanaHRM\\HanaHRM.csproj|solutionrelative:hanahrm\\hanahrm.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignor",
+              "DocumentMoniker": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\.gitignor",
+              "RelativeDocumentMoniker": "HanaHRM\\.gitignor",
+              "ToolTip": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\.gitignor",
+              "RelativeToolTip": "HanaHRM\\.gitignor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-15T12:05:37.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\DataAccess\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "HanaHRM\\DataAccess\\Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\DataAccess\\Models\\Employee.cs",
+              "RelativeToolTip": "HanaHRM\\DataAccess\\Models\\Employee.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAIwHsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T06:43:25.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Religion.cs",
+              "DocumentMoniker": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\DataAccess\\Models\\Religion.cs",
+              "RelativeDocumentMoniker": "HanaHRM\\DataAccess\\Models\\Religion.cs",
+              "ToolTip": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\DataAccess\\Models\\Religion.cs",
+              "RelativeToolTip": "HanaHRM\\DataAccess\\Models\\Religion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:03:54.73Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Designation.cs",
+              "DocumentMoniker": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\DataAccess\\Models\\Designation.cs",
+              "RelativeDocumentMoniker": "HanaHRM\\DataAccess\\Models\\Designation.cs",
+              "ToolTip": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\DataAccess\\Models\\Designation.cs",
+              "RelativeToolTip": "HanaHRM\\DataAccess\\Models\\Designation.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:03:41.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Department.cs",
+              "DocumentMoniker": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\DataAccess\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "HanaHRM\\DataAccess\\Models\\Department.cs",
+              "ToolTip": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\DataAccess\\Models\\Department.cs",
+              "RelativeToolTip": "HanaHRM\\DataAccess\\Models\\Department.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:03:25.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HRMDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\DataAccess\\Models\\HRMDbContext.cs",
+              "RelativeDocumentMoniker": "HanaHRM\\DataAccess\\Models\\HRMDbContext.cs",
+              "ToolTip": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\DataAccess\\Models\\HRMDbContext.cs",
+              "RelativeToolTip": "HanaHRM\\DataAccess\\Models\\HRMDbContext.cs",
+              "ViewState": "AgIAAFoAAAAAAAAAAAAcwDcAAACMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:03:00.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CommonController.cs",
+              "DocumentMoniker": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\Controllers\\CommonController.cs",
+              "RelativeDocumentMoniker": "HanaHRM\\Controllers\\CommonController.cs",
+              "ToolTip": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\Controllers\\CommonController.cs",
+              "RelativeToolTip": "HanaHRM\\Controllers\\CommonController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowCYAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T12:15:04.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\appsettings.json",
+              "RelativeDocumentMoniker": "HanaHRM\\appsettings.json",
+              "ToolTip": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\appsettings.json",
+              "RelativeToolTip": "HanaHRM\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-14T11:23:50.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HanaHRM.http",
+              "DocumentMoniker": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\HanaHRM.http",
+              "RelativeDocumentMoniker": "HanaHRM\\HanaHRM.http",
+              "ToolTip": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\HanaHRM.http",
+              "RelativeToolTip": "HanaHRM\\HanaHRM.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-07-14T09:29:30.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HanaHRM.csproj",
+              "DocumentMoniker": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\HanaHRM.csproj",
+              "RelativeDocumentMoniker": "HanaHRM\\HanaHRM.csproj",
+              "ToolTip": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\HanaHRM.csproj",
+              "RelativeToolTip": "HanaHRM\\HanaHRM.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-14T07:49:11.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "HanaHRM\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "HanaHRM\\Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwEAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T07:45:28.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HanaHRM\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HanaHRM\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-14T07:36:54.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "HanaHRM\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\WeatherForecast.cs",
+              "RelativeToolTip": "HanaHRM\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:55:40.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\Program.cs",
+              "RelativeDocumentMoniker": "HanaHRM\\Program.cs",
+              "ToolTip": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\Program.cs",
+              "RelativeToolTip": "HanaHRM\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:55:36.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HanaHRM",
+              "DocumentMoniker": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\HanaHRM.csproj",
+              "RelativeDocumentMoniker": "HanaHRM\\HanaHRM.csproj",
+              "ToolTip": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\HanaHRM.csproj",
+              "RelativeToolTip": "HanaHRM\\HanaHRM.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-14T06:55:31.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "HanaHRM\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "HanaHRM\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-14T06:49:52.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Section.cs",
+              "DocumentMoniker": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\DataAccess\\Models\\Section.cs",
+              "RelativeDocumentMoniker": "HanaHRM\\DataAccess\\Models\\Section.cs",
+              "ToolTip": "C:\\Users\\ayon.ghosh\\Projects\\HanaHRM\\HanaHRM\\DataAccess\\Models\\Section.cs",
+              "RelativeToolTip": "HanaHRM\\DataAccess\\Models\\Section.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-15T04:03:55.785Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
